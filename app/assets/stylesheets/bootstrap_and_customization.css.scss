@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster+Two);
+
+$body-bg:      #34495e;
+$font-family-sans-serif: 'Lobster Two', cursive;
+$navbar-inverse-bg:     #2980b9;
+$navbar-inverse-link-color: white;
+$jumbotron-bg: #bdc3c7;
+
+@import 'bootstrap';
+
+.center {
+		text-align: center;
+}
